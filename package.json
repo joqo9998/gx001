@@ -1,0 +1,8 @@
+{
+  "name": "my-homepage",
+  "version": "1.0.0",
+  "description": "个人主页网站",
+  "scripts": {
+    "preview": "npx http-server . -p 8080 -o"
+  }
+}

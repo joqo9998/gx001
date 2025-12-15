@@ -1,5 +1,6 @@
-name = "GX001"
+name = "gx001"
 compatibility_date = "2025-12-15"
 
 [site]
 bucket = "."
+entry-point = "workers-site"
